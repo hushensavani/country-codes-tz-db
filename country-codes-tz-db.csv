@@ -1,0 +1,428 @@
+isoCode,countryName,dialCode,countryId,timezones
+AF,Afghanistan,93,4,Asia/Kabul
+AX,Åland Islands,358,248,Europe/Mariehamn
+AL,Albania,355,8,Europe/Tirane
+DZ,Algeria,213,12,Africa/Algiers
+AS,American Samoa,1-684,16,Pacific/Pago_Pago
+AD,Andorra,376,20,Europe/Andorra
+AO,Angola,244,24,Africa/Luanda
+AI,Anguilla,1-264,660,America/Anguilla
+AQ,Antarctica,672,10,Antarctica/Casey
+,,,,Antarctica/Davis
+,,,,Antarctica/DumontDUrville
+,,,,Antarctica/Mawson
+,,,,Antarctica/McMurdo
+,,,,Antarctica/Palmer
+,,,,Antarctica/Rothera
+,,,,Antarctica/Syowa
+,,,,Antarctica/Troll
+,,,,Antarctica/Vostok
+AG,Antigua and Barbuda,1-268,28,America/Antigua
+AR,Argentina,54,32,America/Argentina/Buenos_Aires
+,,,,America/Argentina/Catamarca
+,,,,America/Argentina/Cordoba
+,,,,America/Argentina/Jujuy
+,,,,America/Argentina/La_Rioja
+,,,,America/Argentina/Mendoza
+,,,,America/Argentina/Rio_Gallegos
+,,,,America/Argentina/Salta
+,,,,America/Argentina/San_Juan
+,,,,America/Argentina/San_Luis
+,,,,America/Argentina/Tucuman
+,,,,America/Argentina/Ushuaia
+AM,Armenia,374,51,Asia/Yerevan
+AW,Aruba,297,533,America/Aruba
+AU,Australia,61,36,Antarctica/Macquarie
+,,,,Australia/Adelaide
+,,,,Australia/Brisbane
+,,,,Australia/Broken_Hill
+,,,,Australia/Currie
+,,,,Australia/Darwin
+,,,,Australia/Eucla
+,,,,Australia/Hobart
+,,,,Australia/Lindeman
+,,,,Australia/Lord_Howe
+,,,,Australia/Melbourne
+,,,,Australia/Perth
+,,,,Australia/Sydney
+AT,Austria,43,40,Europe/Vienna
+AZ,Azerbaijan,994,31,Asia/Baku
+BS,Bahamas,1-242,44,America/Nassau
+BH,Bahrain,973,48,Asia/Bahrain
+BD,Bangladesh,880,50,Asia/Dhaka
+BB,Barbados,1-246,52,America/Barbados
+BY,Belarus,375,112,Europe/Minsk
+BE,Belgium,32,56,Europe/Brussels
+BZ,Belize,501,84,America/Belize
+BJ,Benin,229,204,Africa/Porto-Novo
+BM,Bermuda,1-441,60,Atlantic/Bermuda
+BT,Bhutan,975,64,Asia/Thimphu
+BO,"Bolivia, Plurinational State of",591,68,America/La_Paz
+BQ,"Bonaire, Sint Eustatius and Saba",599,535,America/Kralendijk
+BA,Bosnia and Herzegovina,387,70,Europe/Sarajevo
+BW,Botswana,267,72,Africa/Gaborone
+BV,Bouvet Island,47,74,Europe/Oslo
+BR,Brazil,55,76,America/Araguaina
+,,,,America/Bahia
+,,,,America/Belem
+,,,,America/Boa_Vista
+,,,,America/Campo_Grande
+,,,,America/Cuiaba
+,,,,America/Eirunepe
+,,,,America/Fortaleza
+,,,,America/Maceio
+,,,,America/Manaus
+,,,,America/Noronha
+,,,,America/Porto_Velho
+,,,,America/Recife
+,,,,America/Rio_Branco
+,,,,America/Santarem
+,,,,America/Sao_Paulo
+IO,British Indian Ocean Territory,246,86,Indian/Chagos
+BN,Brunei Darussalam,673,96,Asia/Brunei
+BG,Bulgaria,359,100,Europe/Sofia
+BF,Burkina Faso,226,854,Africa/Ouagadougou
+BI,Burundi,257,108,Africa/Bujumbura
+KH,Cambodia,855,116,Asia/Phnom_Penh
+CM,Cameroon,237,120,Africa/Douala
+CA,Canada,1,124,America/Atikokan
+,,,,America/Blanc-Sablon
+,,,,America/Cambridge_Bay
+,,,,America/Creston
+,,,,America/Dawson
+,,,,America/Dawson_Creek
+,,,,America/Edmonton
+,,,,America/Fort_Nelson
+,,,,America/Glace_Bay
+,,,,America/Goose_Bay
+,,,,America/Halifax
+,,,,America/Inuvik
+,,,,America/Iqaluit
+,,,,America/Moncton
+,,,,America/Nipigon
+,,,,America/Pangnirtung
+,,,,America/Rainy_River
+,,,,America/Rankin_Inlet
+,,,,America/Regina
+,,,,America/Resolute
+,,,,America/St_Johns
+,,,,America/Swift_Current
+,,,,America/Thunder_Bay
+,,,,America/Toronto
+,,,,America/Vancouver
+,,,,America/Whitehorse
+,,,,America/Winnipeg
+,,,,America/Yellowknife
+CV,Cape Verde,238,132,Atlantic/Cape_Verde
+KY,Cayman Islands,1-345,136,America/Cayman
+CF,Central African Republic,236,140,Africa/Bangui
+TD,Chad,235,148,Africa/Ndjamena
+CL,Chile,56,152,America/Punta_Arenas
+,,,,America/Santiago
+,,,,Pacific/Easter
+CN,China,86,156,Asia/Shanghai
+,,,,Asia/Urumqi
+CX,Christmas Island,61,162,Indian/Christmas
+CC,Cocos (Keeling) Islands,61,166,Indian/Cocos
+CO,Colombia,57,170,America/Bogota
+KM,Comoros,269,174,Indian/Comoro
+CG,Congo,242,178,Africa/Brazzaville
+CD,"Congo, the Democratic Republic of the",243,180,Africa/Kinshasa
+,,,,Africa/Lubumbashi
+CK,Cook Islands,682,184,Pacific/Rarotonga
+CR,Costa Rica,506,188,America/Costa_Rica
+CI,Côte d'Ivoire,225,384,Africa/Abidjan
+HR,Croatia,385,191,Europe/Zagreb
+CU,Cuba,53,192,America/Havana
+CW,Curaçao,599,531,America/Curacao
+CY,Cyprus,357,196,Asia/Famagusta
+,,,,Asia/Nicosia
+CZ,Czech Republic,420,203,Europe/Prague
+DK,Denmark,45,208,Europe/Copenhagen
+DJ,Djibouti,253,262,Africa/Djibouti
+DM,Dominica,1-767,212,America/Dominica
+DO,Dominican Republic,"1-809,1-829,1-849",214,America/Santo_Domingo
+EC,Ecuador,593,218,America/Guayaquil
+,,,,Pacific/Galapagos
+EG,Egypt,20,818,Africa/Cairo
+SV,El Salvador,503,222,America/El_Salvador
+GQ,Equatorial Guinea,240,226,Africa/Malabo
+ER,Eritrea,291,232,Africa/Asmara
+EE,Estonia,372,233,Europe/Tallinn
+ET,Ethiopia,251,231,Africa/Addis_Ababa
+FK,Falkland Islands (Malvinas),500,238,Atlantic/Stanley
+FO,Faroe Islands,298,234,Atlantic/Faroe
+FJ,Fiji,679,242,Pacific/Fiji
+FI,Finland,358,246,Europe/Helsinki
+FR,France,33,250,Europe/Paris
+GF,French Guiana,594,254,America/Cayenne
+PF,French Polynesia,689,258,Pacific/Gambier
+,,,,Pacific/Marquesas
+,,,,Pacific/Tahiti
+TF,French Southern Territories,262,260,Indian/Kerguelen
+GA,Gabon,241,266,Africa/Libreville
+GM,Gambia,220,270,Africa/Banjul
+GE,Georgia,995,268,Asia/Tbilisi
+DE,Germany,49,276,Europe/Berlin
+,,,,Europe/Busingen
+GH,Ghana,233,288,Africa/Accra
+GI,Gibraltar,350,292,Europe/Gibraltar
+GR,Greece,30,300,Europe/Athens
+GL,Greenland,299,304,America/Danmarkshavn
+,,,,America/Nuuk
+,,,,America/Scoresbysund
+,,,,America/Thule
+GD,Grenada,1-473,308,America/Grenada
+GP,Guadeloupe,590,312,America/Guadeloupe
+GU,Guam,1-671,316,Pacific/Guam
+GT,Guatemala,502,320,America/Guatemala
+GG,Guernsey,44,831,Europe/Guernsey
+GN,Guinea,224,324,Africa/Conakry
+GW,Guinea-Bissau,245,624,Africa/Bissau
+GY,Guyana,592,328,America/Guyana
+HT,Haiti,509,332,America/Port-au-Prince
+HM,Heard Island and McDonald Islands,672,334,Indian/Kerguelen
+VA,Holy See (Vatican City State),39-06,336,Europe/Vatican
+HN,Honduras,504,340,America/Tegucigalpa
+HK,Hong Kong,852,344,Asia/Hong_Kong
+HU,Hungary,36,348,Europe/Budapest
+IS,Iceland,354,352,Atlantic/Reykjavik
+IN,India,91,356,Asia/Kolkata
+ID,Indonesia,62,360,Asia/Jakarta
+,,,,Asia/Jayapura
+,,,,Asia/Makassar
+,,,,Asia/Pontianak
+IR,"Iran, Islamic Republic of",98,364,Asia/Tehran
+IQ,Iraq,964,368,Asia/Baghdad
+IE,Ireland,353,372,Europe/Dublin
+IM,Isle of Man,44,833,Europe/Isle_of_Man
+IL,Israel,972,376,Asia/Jerusalem
+IT,Italy,39,380,Europe/Rome
+JM,Jamaica,1-876,388,America/Jamaica
+JP,Japan,81,392,Asia/Tokyo
+JE,Jersey,44,832,Europe/Jersey
+JO,Jordan,962,400,Asia/Amman
+KZ,Kazakhstan,7,398,Asia/Almaty
+,,,,Asia/Aqtau
+,,,,Asia/Aqtobe
+,,,,Asia/Atyrau
+,,,,Asia/Oral
+,,,,Asia/Qostanay
+,,,,Asia/Qyzylorda
+KE,Kenya,254,404,Africa/Nairobi
+KI,Kiribati,686,296,Pacific/Enderbury
+,,,,Pacific/Kiritimati
+,,,,Pacific/Tarawa
+KP,"Korea, Democratic People's Republic of",850,408,Asia/Pyongyang
+KR,"Korea, Republic of",82,410,Asia/Seoul
+KW,Kuwait,965,414,Asia/Kuwait
+KG,Kyrgyzstan,996,417,Asia/Bishkek
+LA,Lao People's Democratic Republic,856,418,Asia/Vientiane
+LV,Latvia,371,428,Europe/Riga
+LB,Lebanon,961,422,Asia/Beirut
+LS,Lesotho,266,426,Africa/Maseru
+LR,Liberia,231,430,Africa/Monrovia
+LY,Libya,218,434,Africa/Tripoli
+LI,Liechtenstein,423,438,Europe/Vaduz
+LT,Lithuania,370,440,Europe/Vilnius
+LU,Luxembourg,352,442,Europe/Luxembourg
+MO,Macao,853,446,Asia/Macau
+MK,"Macedonia, the Former Yugoslav Republic of",389,807,Europe/Skopje
+MG,Madagascar,261,450,Indian/Antananarivo
+MW,Malawi,265,454,Africa/Blantyre
+MY,Malaysia,60,458,Asia/Kuala_Lumpur
+,,,,Asia/Kuching
+MV,Maldives,960,462,Indian/Maldives
+ML,Mali,223,466,Africa/Bamako
+MT,Malta,356,470,Europe/Malta
+MH,Marshall Islands,692,584,Pacific/Kwajalein
+,,,,Pacific/Majuro
+MQ,Martinique,596,474,America/Martinique
+MR,Mauritania,222,478,Africa/Nouakchott
+MU,Mauritius,230,480,Indian/Mauritius
+YT,Mayotte,262,175,Indian/Mayotte
+MX,Mexico,52,484,America/Bahia_Banderas
+,,,,America/Cancun
+,,,,America/Chihuahua
+,,,,America/Hermosillo
+,,,,America/Matamoros
+,,,,America/Mazatlan
+,,,,America/Merida
+,,,,America/Mexico_City
+,,,,America/Monterrey
+,,,,America/Ojinaga
+,,,,America/Tijuana
+FM,"Micronesia, Federated States of",691,583,Pacific/Chuuk
+,,,,Pacific/Kosrae
+,,,,Pacific/Pohnpei
+MD,"Moldova, Republic of",373,498,Europe/Chisinau
+MC,Monaco,377,492,Europe/Monaco
+MN,Mongolia,976,496,Asia/Choibalsan
+,,,,Asia/Hovd
+,,,,Asia/Ulaanbaatar
+ME,Montenegro,382,499,Europe/Podgorica
+MS,Montserrat,1-664,500,America/Montserrat
+MA,Morocco,212,504,Africa/Casablanca
+MZ,Mozambique,258,508,Africa/Maputo
+MM,Myanmar,95,104,Asia/Yangon
+NA,Namibia,264,516,Africa/Windhoek
+NR,Nauru,674,520,Pacific/Nauru
+NP,Nepal,977,524,Asia/Kathmandu
+NL,Netherlands,31,528,Europe/Amsterdam
+NC,New Caledonia,687,540,Pacific/Noumea
+NZ,New Zealand,64,554,Pacific/Auckland
+,,,,Pacific/Chatham
+NI,Nicaragua,505,558,America/Managua
+NE,Niger,227,562,Africa/Niamey
+NG,Nigeria,234,566,Africa/Lagos
+NU,Niue,683,570,Pacific/Niue
+NF,Norfolk Island,672,574,Pacific/Norfolk
+MP,Northern Mariana Islands,1-670,580,Pacific/Saipan
+NO,Norway,47,578,Europe/Oslo
+OM,Oman,968,512,Asia/Muscat
+PK,Pakistan,92,586,Asia/Karachi
+PW,Palau,680,585,Pacific/Palau
+PS,"Palestine, State of",970,275,Asia/Gaza
+,,,,Asia/Hebron
+PA,Panama,507,591,America/Panama
+PG,Papua New Guinea,675,598,Pacific/Bougainville
+,,,,Pacific/Port_Moresby
+PY,Paraguay,595,600,America/Asuncion
+PE,Peru,51,604,America/Lima
+PH,Philippines,63,608,Asia/Manila
+PN,Pitcairn,870,612,Pacific/Pitcairn
+PL,Poland,48,616,Europe/Warsaw
+PT,Portugal,351,620,Atlantic/Azores
+,,,,Atlantic/Madeira
+,,,,Europe/Lisbon
+PR,Puerto Rico,1,630,America/Puerto_Rico
+QA,Qatar,974,634,Asia/Qatar
+RE,Réunion,262,638,Indian/Reunion
+RO,Romania,40,642,Europe/Bucharest
+RU,Russian Federation,7,643,Asia/Anadyr
+,,,,Asia/Barnaul
+,,,,Asia/Chita
+,,,,Asia/Irkutsk
+,,,,Asia/Kamchatka
+,,,,Asia/Khandyga
+,,,,Asia/Krasnoyarsk
+,,,,Asia/Magadan
+,,,,Asia/Novokuznetsk
+,,,,Asia/Novosibirsk
+,,,,Asia/Omsk
+,,,,Asia/Sakhalin
+,,,,Asia/Srednekolymsk
+,,,,Asia/Tomsk
+,,,,Asia/Ust-Nera
+,,,,Asia/Vladivostok
+,,,,Asia/Yakutsk
+,,,,Asia/Yekaterinburg
+,,,,Europe/Astrakhan
+,,,,Europe/Kaliningrad
+,,,,Europe/Kirov
+,,,,Europe/Moscow
+,,,,Europe/Samara
+,,,,Europe/Saratov
+,,,,Europe/Ulyanovsk
+,,,,Europe/Volgograd
+RW,Rwanda,250,646,Africa/Kigali
+BL,Saint Barthélemy,590,652,America/St_Barthelemy
+SH,"Saint Helena, Ascension and Tristan da Cunha",290,654,Atlantic/St_Helena
+KN,Saint Kitts and Nevis,1-869,659,America/St_Kitts
+LC,Saint Lucia,1-758,662,America/St_Lucia
+MF,Saint Martin (French part),590,663,America/Marigot
+PM,Saint Pierre and Miquelon,508,666,America/Miquelon
+VC,Saint Vincent and the Grenadines,1-784,670,America/St_Vincent
+WS,Samoa,685,882,Pacific/Apia
+SM,San Marino,378,674,Europe/San_Marino
+ST,Sao Tome and Principe,239,678,Africa/Sao_Tome
+SA,Saudi Arabia,966,682,Asia/Riyadh
+SN,Senegal,221,686,Africa/Dakar
+RS,Serbia,381,688,Europe/Belgrade
+SC,Seychelles,248,690,Indian/Mahe
+SL,Sierra Leone,232,694,Africa/Freetown
+SG,Singapore,65,702,Asia/Singapore
+SX,Sint Maarten (Dutch part),1-721,534,America/Lower_Princes
+SK,Slovakia,421,703,Europe/Bratislava
+SI,Slovenia,386,705,Europe/Ljubljana
+SB,Solomon Islands,677,90,Pacific/Guadalcanal
+SO,Somalia,252,706,Africa/Mogadishu
+ZA,South Africa,27,710,Africa/Johannesburg
+GS,South Georgia and the South Sandwich Islands,500,239,Atlantic/South_Georgia
+SS,South Sudan,211,728,Africa/Juba
+ES,Spain,34,724,Africa/Ceuta
+,,,,Atlantic/Canary
+,,,,Europe/Madrid
+LK,Sri Lanka,94,144,Asia/Colombo
+SD,Sudan,249,729,Africa/Khartoum
+SR,Suriname,597,740,America/Paramaribo
+SJ,Svalbard and Jan Mayen,47,744,Arctic/Longyearbyen
+SZ,Swaziland,268,748,Africa/Mbabane
+SE,Sweden,46,752,Europe/Stockholm
+CH,Switzerland,41,756,Europe/Zurich
+SY,Syrian Arab Republic,963,760,Asia/Damascus
+TW,"Taiwan, Province of China",886,158,Asia/Taipei
+TJ,Tajikistan,992,762,Asia/Dushanbe
+TZ,"Tanzania, United Republic of",255,834,Africa/Dar_es_Salaam
+TH,Thailand,66,764,Asia/Bangkok
+TL,Timor-Leste,670,626,Asia/Dili
+TG,Togo,228,768,Africa/Lome
+TK,Tokelau,690,772,Pacific/Fakaofo
+TO,Tonga,676,776,Pacific/Tongatapu
+TT,Trinidad and Tobago,1-868,780,America/Port_of_Spain
+TN,Tunisia,216,788,Africa/Tunis
+TR,Turkey,90,792,Europe/Istanbul
+TM,Turkmenistan,993,795,Asia/Ashgabat
+TC,Turks and Caicos Islands,1-649,796,America/Grand_Turk
+TV,Tuvalu,688,798,Pacific/Funafuti
+UG,Uganda,256,800,Africa/Kampala
+UA,Ukraine,380,804,Europe/Kiev
+,,,,Europe/Simferopol
+,,,,Europe/Uzhgorod
+,,,,Europe/Zaporozhye
+AE,United Arab Emirates,971,784,Asia/Dubai
+GB,United Kingdom,44,826,Europe/London
+US,United States,1,840,America/Adak
+,,,,America/Anchorage
+,,,,America/Boise
+,,,,America/Chicago
+,,,,America/Denver
+,,,,America/Detroit
+,,,,America/Indiana/Indianapolis
+,,,,America/Indiana/Knox
+,,,,America/Indiana/Marengo
+,,,,America/Indiana/Petersburg
+,,,,America/Indiana/Tell_City
+,,,,America/Indiana/Vevay
+,,,,America/Indiana/Vincennes
+,,,,America/Indiana/Winamac
+,,,,America/Juneau
+,,,,America/Kentucky/Louisville
+,,,,America/Kentucky/Monticello
+,,,,America/Los_Angeles
+,,,,America/Menominee
+,,,,America/Metlakatla
+,,,,America/New_York
+,,,,America/Nome
+,,,,America/North_Dakota/Beulah
+,,,,America/North_Dakota/Center
+,,,,America/North_Dakota/New_Salem
+,,,,America/Phoenix
+,,,,America/Sitka
+,,,,America/Yakutat
+,,,,Pacific/Honolulu
+UM,United States Minor Outlying Islands,,581,Pacific/Midway
+,,,,Pacific/Wake
+UY,Uruguay,598,858,America/Montevideo
+UZ,Uzbekistan,998,860,Asia/Samarkand
+,,,,Asia/Tashkent
+VU,Vanuatu,678,548,Pacific/Efate
+VE,"Venezuela, Bolivarian Republic of",58,862,America/Caracas
+VN,Viet Nam,84,704,Asia/Ho_Chi_Minh
+VG,"Virgin Islands, British",1-284,92,America/Tortola
+VI,"Virgin Islands, U.S.",1-340,850,America/St_Thomas
+WF,Wallis and Futuna,681,876,Pacific/Wallis
+EH,Western Sahara,212,732,Africa/El_Aaiun
+YE,Yemen,967,887,Asia/Aden
+ZM,Zambia,260,894,Africa/Lusaka
+ZW,Zimbabwe,263,716,Africa/Harare
